@@ -27,4 +27,4 @@ network_ipv4 = "10.10.10.100/24"
 network_gw = "10.10.10.1"
 
 # Node
-node = "10.10.10.10"
+node = "pve-node-1"
