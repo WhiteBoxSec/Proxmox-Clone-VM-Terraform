@@ -1,4 +1,4 @@
-# Proxmox-Clone-VM
+# Proxmox-Clone-VM-Terraform
 Clone VM on Proxmox using Terraform. This is the accompanying script to the Proxmox Packer repo.
 
 Terraform template for cloning Kali cloud-init template in Proxmox. 
